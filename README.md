@@ -8,7 +8,7 @@
 - *Project Title: [Port fortran-lang.org to Sphinx](https://summerofcode.withgoogle.com/programs/2022/projects/L28fukIz)*<br/>
 - *Organization: [Fortran-lang](https://github.com/fortran-lang/)*<br/>
 - *Weekly Blog links: [Fortran-lang Discourse](https://docs.google.com/document/d/1Et-2JPlnA9SAssSnmzkYeXQ1ExXqBI5tcdBQhuqvilE/edit?usp=sharing)*<br/>
-- *Mentors : [Sebastian Ehlert](https://github.com/awvwgk)*
+- *Mentors : [Sebastian Ehlert](https://github.com/awvwgk)*<br />
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*[Rohit Goswami](https://github.com/HaoZeke)*<br />
 
 ## Abstract
