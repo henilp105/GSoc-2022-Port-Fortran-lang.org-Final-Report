@@ -83,12 +83,12 @@ I have implemented a News section in which monthly newsletters have been shown u
 
 ## Internationalisation
 
-I have implemented a custom Internationalisation switcher using the version switcher of the existing pydata-theme to make a language switcher and also added build of 10+ languages to localise the site.
-
+I have implemented a custom Internationalisation switcher using the version switcher of the existing pydata-theme to make a language switcher and also added a build of 10+ languages to localize the site.
+ 
 
 ## Intrinsics Section
 
-I have implemented the pre existing Intrinsics section in which includes Intrinsics which have been written in kramdown to port them to myst-markdown .
+I have implemented the pre-existing intrinsic section which includes Intrinsics that have been written in kramdown to port them to myst-markdown.
 ![Intrinsics](https://github.com/henilp105/GSoc-2022-Port-Fortran-lang.org-Final-Report/raw/main/images/intrinsics.png)
 
 ## Contributions to the Project:
@@ -107,6 +107,7 @@ I have implemented the pre existing Intrinsics section in which includes Intrins
 
 ## Acknowledgements
 
-On a final note, I'd like to thank all my mentors: [Sebastian Ehlert](https://github.com/awvwgk), [Rohit Goswami](https://github.com/HaoZeke) for guiding me through the thought process of building this project and providing their valuable feedback in every stage of the process. I learnt a lot about writing quality and maintainable code through this project. I am also grateful to all my peers: [Arteev Raina](https://github.com/arteevraina), [Ashirwad Mishra](https://github.com/ashirrwad), [Mohd Ubaid Shaikh](https://github.com/Shaikh-Ubaid) and Oshanath Rajawasam as this project was not a stand-alone one and needed cooperation and valuable help from everyone. Lastly, I'd like to acknowledge Google for conducting such an amazing program.
+On a final note, I'd like to thank all my mentors: [Sebastian Ehlert](https://github.com/awvwgk), [Rohit Goswami](https://github.com/HaoZeke) for guiding me through the thought process of building this project and providing their valuable feedback in every stage of the process. I learned a lot about writing quality and maintainable code through this project. I am also grateful to all my peers: [Arteev Raina](https://github.com/arteevraina), [Ashirwad Mishra](https://github.com/ashirrwad), [Mohd Ubaid Shaikh](https://github.com/Shaikh-Ubaid) and Oshanath Rajawasam as this project was not a stand-alone one and needed cooperation and valuable help from everyone. Lastly, I'd like to acknowledge Google for conducting such an amazing program.
+ 
 
 Looking forward to contributing more, in any way I can.
